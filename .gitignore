@@ -1,0 +1,18 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+**/node_modules/
+**/.gradle/
+**/.idea/
+**/.vscode/
+
+# Build directories
+**/android/app/build/
+**/ios/Pods/
+**/ios/build/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
